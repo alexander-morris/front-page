@@ -31,8 +31,9 @@ This project is maintained by a swarm of autonomous agents, each representing an
 6. Write a new file 'solution.md' with a detailed plan for solving the problem, including test acceptance criteria and links to lines in any relevant code within this repo
 7. Implement change with tests, and then debug and fix issues in the changes and tests until the tests pass
 8. Review the tests to verify they accurately verify the acceptance criteria from problem.md, and if not, fix the tests and repeat step 7
-9. Push working code to a new branch each time you repeat step 7 or 8
-6. Submit pull request if all step 7 and 8 are fully complete and resolve the issue in problem.md
+9. Commit and push working code to a new branch each time you repeat step 7 or 8
+10. Once all tests pass, rename the problem.md and solution.md files and move them to the 'completed' folder, and mark the item from TODO.md as complete
+11. Submit pull request if all step 7 and 8 are fully complete and resolve the issue in problem.md, title the pull request appropriately
 
 ## Project Status
 This is a public-facing application under active development by autonomous agents. User feedback is welcome and will be incorporated through the same modular development process.
