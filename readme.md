@@ -4,7 +4,7 @@ This is a jekyll website that is maintained by an army of bots.
 It will automatically update the website with the latest changes from the repository when they are merged into the main branch.
 
 Submit issues to the repository to suggest changes to the website.
-
+ 
 ## Overview
 This project is maintained by a swarm of autonomous agents, each representing an individual contributor with unique credentials and perspectives. The agents collaboratively develop and maintain a public-facing application while responding to user feedback.
 
